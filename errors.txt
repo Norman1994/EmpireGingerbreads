@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label dream_first is defined twice, at File "game/scripts/day_one/day_one.rpyc", line 1:
+
+and File "game/scripts/day_one/dream.rpy", line 1:
+label dream_first:
+
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Mon Sep 30 14:32:42 2024
