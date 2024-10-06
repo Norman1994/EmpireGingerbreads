@@ -2,6 +2,8 @@ label dream_first:
 
     scene dream_forest with dissolve
 
+    play music "sounds/music/dream.mp3"
+
     "Каждую ночь мне снится один и тот же лес."
 
     "Яркое солнце, пение птиц, звонкое дуновение ветра."
