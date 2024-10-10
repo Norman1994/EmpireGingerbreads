@@ -7,3 +7,5 @@ define unknown_crab_girl = Character('Крабоженщина', color="#ff3c3c"
 define conductor = Character('Проводник', color="#08af48")
 define evangelina_noname = Character('Незнакомка', color="#08af48")
 define evangelina = Character('Евангелина', color="#08af48")
+define petr_unknown = Character('Граф', color="#810a0a")
+define petr = Character('Граф Петр', color="#810a0a")

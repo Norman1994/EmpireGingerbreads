@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/day_one/train_station.rpy", line 51: choice menuitem expects a non-empty block.
-    "Вы как-то связаны с моими снами?!":
-                                        ^
+File "game/scripts/system/variables.rpy", line 1: unexpected EOF while parsing
+    false;
+          ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Sun Oct  6 14:10:22 2024
+Wed Oct  9 16:09:36 2024
