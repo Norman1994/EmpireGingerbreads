@@ -1,6 +1,6 @@
 label train_present:
 
-    scene train
+    scene train with dissolve
 
     play music "sounds/sound/train_sound.mp3"
 
@@ -82,7 +82,7 @@ label train_present:
 
 label train_past:
 
-    scene empire_train
+    scene empire_train with dissolve
 
     "Гудок паровоза вырвал меня из сна, как спасатель утопленника из холодной морской пучины."
 
@@ -130,7 +130,7 @@ label train_past:
 
 label train_station_past:
 
-    scene train_station_past
+    scene train_station_past with dissolve
 
     "Куда ни глянь, повсюду свет!"
 
@@ -186,7 +186,7 @@ label train_station_past:
 
     "Ведомый любопытством, я помчался туда." 
 
-    scene girl_train
+    scene girl_train with dissolve
 
     "На рельсах сидела девушка двадцати лет с абсолютно отрешенным выражением лица."
 
@@ -353,6 +353,6 @@ label train_station_past:
 
     "Ну, ладно, я уже задержался тут. До ресторана предстояло ехать и ехать, а значит времени было в обрез."
 
-    "..."
+    jump empire_city
 
     return
