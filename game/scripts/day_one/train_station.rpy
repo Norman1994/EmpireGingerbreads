@@ -331,7 +331,7 @@ label train_station_past:
     menu:
         "Хорошо, я приду.":
 
-            $is_eva = True;
+            $eva_scores += 2;
 
             petr "Превосходно! Будем вас ждать. Не опаздывайте!"
 
