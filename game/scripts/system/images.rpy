@@ -9,6 +9,7 @@ image train_station_past = "images/backgrounds/train_station_past.jpg"
 image empire_city = "images/backgrounds/empire_city.jpg"
 image igor_scary = "images/backgrounds/igor_scary.png"
 image empire_city_second = "images/backgrounds/empire_city_second.png"
+image atlantic_city = "images/backgrounds/atlantic_city.png"
 
 #Персонажи
 image BunnyQueenUnknown = "images/characters/bunny_queen.png"

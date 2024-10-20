@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/system/variables.rpy", line 1: unexpected EOF while parsing
-    false;
-          ^
+File "game/scripts/day_one/empire_city.rpy", line 143: end of line expected.
+    me "Я - Игорь. А вы?":
+                         ^
 
-Ren'Py Version: Ren'Py 8.2.1.24030407
-Wed Oct  9 16:09:36 2024
+Ren'Py Version: Ren'Py 8.3.2.24090902
+Fri Oct 18 16:03:27 2024
