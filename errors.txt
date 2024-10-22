@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/day_one/empire_city.rpy", line 143: end of line expected.
-    me "Я - Игорь. А вы?":
-                         ^
+File "game/scripts/day_one/empire_city.rpy", line 255: choice menuitem expects a non-empty block.
+    "Пройти мимо":
+                  ^
 
-Ren'Py Version: Ren'Py 8.3.2.24090902
-Fri Oct 18 16:03:27 2024
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Mon Oct 21 17:11:06 2024
