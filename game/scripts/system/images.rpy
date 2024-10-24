@@ -11,6 +11,8 @@ image igor_scary = "images/backgrounds/igor_scary.png"
 image empire_city_second = "images/backgrounds/empire_city_second.png"
 image atlantic_city = "images/backgrounds/atlantic_city.png"
 image robber_scene = "images/backgrounds/robber_scene.png"
+image mansion = "images/backgrounds/mansion.png"
+image grand_hall = "images/backgrounds/grand_hall.png"
 
 #Персонажи
 image BunnyQueenUnknown = "images/characters/bunny_queen.png"
